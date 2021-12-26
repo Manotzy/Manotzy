@@ -1,16 +1,19 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador Manotzy">
 
-<!--
-**Manotzy/Manotzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Olá eu sou Erick "Manotzy" Pires.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=manotzy&color=E48B6F&style=for-the-badge&logo=GitHub">
+
+<img align='bottom' src="https://github-readme-stats.vercel.app/api?username=Manotzy&show_icons=true&title_color=AA31F7&text_color=AA31F7&icon_color=E48B6F&bg_color=171717&cache_seconds=2300">
+<p>
+
+Eu sou desenvolvedor **Front-End**.
+
+
+</p>
+
+
+<hr>
